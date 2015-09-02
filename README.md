@@ -7,6 +7,6 @@ angular.js
 angular-material
 moment 
 
-view project her  http://niktrix.github.io/githubissues/
+view project here  http://niktrix.github.io/githubissues/
 
 #Need code refactoring
